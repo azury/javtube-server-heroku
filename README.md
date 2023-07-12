@@ -109,4 +109,4 @@
 
 - 按提示，重新输入一遍应用名以删除应用。
 
-![delete](images/delete.png)
+![delete](images/delete.png) 
